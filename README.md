@@ -28,3 +28,10 @@ To run this project, you will need to add the following environment variables to
 
 `currency-api.api-key`
 
+
+## Documentation
+
+Once the application is running, you can find the API documentation at **http://localhost:8080/swagger-ui/index.html**
+
+[API Documentation](http://localhost:8080/swagger-ui/index.html)
+
