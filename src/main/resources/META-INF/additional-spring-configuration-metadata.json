@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "datasource",
+      "type": "java.lang.Mappings",
+      "description": "Custom data source properties"
+    },
+    {
+      "name": "currency-api",
+      "type": "java.lang.Mappings",
+      "description": "Third party API keys"
+    }
+  ]
+}

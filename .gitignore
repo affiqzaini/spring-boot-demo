@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Properties file ###
+*.yaml
+
+### Local logs file
+/logs/**
